@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Hello, World!\n");
+    printf("Hello,Hello,Hello,Hello Hello, Hello, Hello World!\n");
 
     system("pause");
 }  
