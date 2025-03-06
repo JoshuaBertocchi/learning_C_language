@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(){
     int num1, num2, soma;
 
     // Lendo dois números do usuário
