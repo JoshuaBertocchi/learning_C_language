@@ -39,7 +39,6 @@ int main(){
             printf("Não possui resto da divisão!");
         }
     }
-    printf("teste\n");
     system("pause");
     return 0;
 }
