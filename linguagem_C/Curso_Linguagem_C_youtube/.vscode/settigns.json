@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.asp": "asp",
+        "*.html": "html",
+        "*.c": "c"
+    },
+    "[asp]":{
+        "files.autoGuessEncoding": false,
+        "files.encoding": "iso88591"
+    },
+    "[html]":{
+        "files.autoGuessEncoding": false,
+        "files.encoding": "iso88591"
+    },
+    "[c]":{
+        "files.autoGuessEncoding": false,
+        "files.encoding": "iso88591"
+    }
+}
